@@ -15,7 +15,7 @@ def Gui():
     win.geometry("700x500")
     win.title("Business Management")
     win.resizable(0,0)
-    win.iconphoto(True,PhotoImage(file="download.png"))
+    win.iconphoto(True,PhotoImage(file="logo.png"))
     win.columnconfigure(0,weight=1)
     win.rowconfigure(0,weight=1)
 ####################################
