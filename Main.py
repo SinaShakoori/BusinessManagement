@@ -535,6 +535,23 @@ def add_fn_db():
     add.destroy()
     showfinancial()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def EditFinance():
     global en_typen,en_amountn,en_daten,en_statusn, edit
     edit=Toplevel(Accounting,bg="lightblue")
